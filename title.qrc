@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>title.jpg</file>
+        <file>title1.jpg</file>
+        <file>title2.jpg</file>
+        <file>title3.jpg</file>
+        <file>../oop_project/ui.qss</file>
+    </qresource>
+</RCC>
